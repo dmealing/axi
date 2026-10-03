@@ -1262,6 +1262,7 @@ community:
       reviewed_revision: 3f4edb61b70072c1477fb64b88a064df606dc5a1
       reviewed_components:
         - pyproject.toml
+        - src/plex_axi/__init__.py
         - src/plex_axi/cli.py
         - src/plex_axi/argspec.py
         - src/plex_axi/errors.py
