@@ -1276,6 +1276,7 @@ community:
         - src/plex_axi/commands/playlist.py
         - src/plex_axi/commands/play.py
         - src/plex_axi/commands/recent.py
+        - src/plex_axi/commands/item.py
         - src/plex_axi/music.py
         - src/plex_axi/commands/setup.py
         - src/plex_axi/commands/context.py
